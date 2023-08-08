@@ -1,6 +1,6 @@
 # SMTP Tester
 
-
+http://edumobiapp-002-site3.ftempurl.com/
 
 ## Getting started
 
